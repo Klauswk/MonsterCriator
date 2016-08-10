@@ -1,0 +1,12 @@
+tipos:
+		Eletricidade(10),
+		Gelo(9),
+		Fogo (8),
+		Martelo(7)
+		Escudo(6),
+		Machado(5),
+		Espada(4),
+		Capacete(3),
+		Bota(2),
+		Calça(1),
+		Armadura(0);
